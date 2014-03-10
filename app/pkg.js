@@ -1,0 +1,1 @@
+Tiny.load('app/app', 'app/app2');
